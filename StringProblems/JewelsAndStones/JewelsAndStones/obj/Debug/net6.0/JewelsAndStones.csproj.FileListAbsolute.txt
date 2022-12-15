@@ -1,0 +1,15 @@
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\bin\Debug\net6.0\JewelsAndStones.exe
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\bin\Debug\net6.0\JewelsAndStones.deps.json
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\bin\Debug\net6.0\JewelsAndStones.runtimeconfig.json
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\bin\Debug\net6.0\JewelsAndStones.dll
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\bin\Debug\net6.0\JewelsAndStones.pdb
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.csproj.AssemblyReference.cache
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.AssemblyInfoInputs.cache
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.AssemblyInfo.cs
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.csproj.CoreCompileInputs.cache
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.dll
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\refint\JewelsAndStones.dll
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.pdb
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\JewelsAndStones.genruntimeconfig.cache
+E:\C#\LeetCode\StringProblems\JewelsAndStones\JewelsAndStones\obj\Debug\net6.0\ref\JewelsAndStones.dll

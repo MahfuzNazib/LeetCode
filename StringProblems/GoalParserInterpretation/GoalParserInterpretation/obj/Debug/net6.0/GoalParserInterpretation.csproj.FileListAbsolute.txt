@@ -1,0 +1,15 @@
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\bin\Debug\net6.0\GoalParserInterpretation.exe
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\bin\Debug\net6.0\GoalParserInterpretation.deps.json
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\bin\Debug\net6.0\GoalParserInterpretation.runtimeconfig.json
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\bin\Debug\net6.0\GoalParserInterpretation.dll
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\bin\Debug\net6.0\GoalParserInterpretation.pdb
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.csproj.AssemblyReference.cache
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.AssemblyInfoInputs.cache
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.AssemblyInfo.cs
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.csproj.CoreCompileInputs.cache
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.dll
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\refint\GoalParserInterpretation.dll
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.pdb
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\GoalParserInterpretation.genruntimeconfig.cache
+E:\C#\LeetCode\StringProblems\GoalParserInterpretation\GoalParserInterpretation\obj\Debug\net6.0\ref\GoalParserInterpretation.dll
