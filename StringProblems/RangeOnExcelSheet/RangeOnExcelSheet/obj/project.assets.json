@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LeetCode\\StringProblems\\ShuffleString\\ShuffleString\\ShuffleString.csproj",
-      "projectName": "ShuffleString",
-      "projectPath": "E:\\LeetCode\\StringProblems\\ShuffleString\\ShuffleString\\ShuffleString.csproj",
+      "projectUniqueName": "E:\\LeetCode\\StringProblems\\RangeOnExcelSheet\\RangeOnExcelSheet\\RangeOnExcelSheet.csproj",
+      "projectName": "RangeOnExcelSheet",
+      "projectPath": "E:\\LeetCode\\StringProblems\\RangeOnExcelSheet\\RangeOnExcelSheet\\RangeOnExcelSheet.csproj",
       "packagesPath": "C:\\Users\\Nazib.m\\.nuget\\packages\\",
-      "outputPath": "E:\\LeetCode\\StringProblems\\ShuffleString\\ShuffleString\\obj\\",
+      "outputPath": "E:\\LeetCode\\StringProblems\\RangeOnExcelSheet\\RangeOnExcelSheet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nazib.m\\AppData\\Roaming\\NuGet\\NuGet.Config",

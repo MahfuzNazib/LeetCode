@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountItemMatchingRule", "CountItemMatchingRule\CountItemMatchingRule.csproj", "{1ADC1DC5-1F71-4ADD-8667-218212D489EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADC1DC5-1F71-4ADD-8667-218212D489EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADC1DC5-1F71-4ADD-8667-218212D489EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADC1DC5-1F71-4ADD-8667-218212D489EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADC1DC5-1F71-4ADD-8667-218212D489EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A22806-1FE9-4755-BDCE-66E32A50FA5B}
+	EndGlobalSection
+EndGlobal

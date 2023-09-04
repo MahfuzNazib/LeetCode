@@ -1,0 +1,15 @@
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\bin\Debug\net6.0\CountItemMatchingRule.exe
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\bin\Debug\net6.0\CountItemMatchingRule.deps.json
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\bin\Debug\net6.0\CountItemMatchingRule.runtimeconfig.json
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\bin\Debug\net6.0\CountItemMatchingRule.dll
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\bin\Debug\net6.0\CountItemMatchingRule.pdb
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.csproj.AssemblyReference.cache
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.GeneratedMSBuildEditorConfig.editorconfig
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.AssemblyInfoInputs.cache
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.AssemblyInfo.cs
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.csproj.CoreCompileInputs.cache
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.dll
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\refint\CountItemMatchingRule.dll
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.pdb
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\CountItemMatchingRule.genruntimeconfig.cache
+E:\LeetCode\StringProblems\CountItemMatchingRule\CountItemMatchingRule\obj\Debug\net6.0\ref\CountItemMatchingRule.dll

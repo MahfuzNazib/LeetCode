@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LeetCode\\StringProblems\\ShuffleString\\ShuffleString\\ShuffleString.csproj",
-      "projectName": "ShuffleString",
-      "projectPath": "E:\\LeetCode\\StringProblems\\ShuffleString\\ShuffleString\\ShuffleString.csproj",
+      "projectUniqueName": "E:\\LeetCode\\StringProblems\\CountItemMatchingRule\\CountItemMatchingRule\\CountItemMatchingRule.csproj",
+      "projectName": "CountItemMatchingRule",
+      "projectPath": "E:\\LeetCode\\StringProblems\\CountItemMatchingRule\\CountItemMatchingRule\\CountItemMatchingRule.csproj",
       "packagesPath": "C:\\Users\\Nazib.m\\.nuget\\packages\\",
-      "outputPath": "E:\\LeetCode\\StringProblems\\ShuffleString\\ShuffleString\\obj\\",
+      "outputPath": "E:\\LeetCode\\StringProblems\\CountItemMatchingRule\\CountItemMatchingRule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nazib.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
