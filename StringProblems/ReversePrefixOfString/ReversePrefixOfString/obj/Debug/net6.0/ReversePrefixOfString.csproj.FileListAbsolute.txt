@@ -1,0 +1,15 @@
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\bin\Debug\net6.0\ReversePrefixOfString.exe
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\bin\Debug\net6.0\ReversePrefixOfString.deps.json
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\bin\Debug\net6.0\ReversePrefixOfString.runtimeconfig.json
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\bin\Debug\net6.0\ReversePrefixOfString.dll
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\bin\Debug\net6.0\ReversePrefixOfString.pdb
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.csproj.AssemblyReference.cache
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.GeneratedMSBuildEditorConfig.editorconfig
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.AssemblyInfoInputs.cache
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.AssemblyInfo.cs
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.csproj.CoreCompileInputs.cache
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.dll
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\refint\ReversePrefixOfString.dll
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.pdb
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ReversePrefixOfString.genruntimeconfig.cache
+E:\LeetCode\StringProblems\ReversePrefixOfString\ReversePrefixOfString\obj\Debug\net6.0\ref\ReversePrefixOfString.dll
